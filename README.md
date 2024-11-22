@@ -1,7 +1,7 @@
 ### <div align="center">I'm Mrusad Patel, a web developer 👨‍💻</div>  
 
 # 💫 About Me:
-🔭 I’m currently working on My Personal Website<br><br>🌱 I’m currently learning Tailwind CSS and Javascript<br><br>❓ Ask me about anything related to PHP and related technologies<br><br>📫 Reach Me at mrusadpatel10@gmail.com
+🔭 I’m currently working on My Personal Website<br>🌱 I’m currently learning Tailwind CSS and Javascript<br>❓ Ask me about anything related to PHP and related technologies<br>📫 Reach Me at mrusadpatel10@gmail.com
 
 
 ## 🌐 Socials:
